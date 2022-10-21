@@ -1,0 +1,14 @@
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\bin\Debug\netcoreapp3.1\Design_Pattern_Adapter.exe
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\bin\Debug\netcoreapp3.1\Design_Pattern_Adapter.deps.json
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\bin\Debug\netcoreapp3.1\Design_Pattern_Adapter.runtimeconfig.json
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\bin\Debug\netcoreapp3.1\Design_Pattern_Adapter.runtimeconfig.dev.json
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\bin\Debug\netcoreapp3.1\Design_Pattern_Adapter.dll
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\bin\Debug\netcoreapp3.1\Design_Pattern_Adapter.pdb
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.csproj.AssemblyReference.cache
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.AssemblyInfoInputs.cache
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.AssemblyInfo.cs
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.dll
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.pdb
+C:\Users\janderson.goncalves\Documents\Github\DesignPatterns\Design_Pattern_Adapter\obj\Debug\netcoreapp3.1\Design_Pattern_Adapter.genruntimeconfig.cache
